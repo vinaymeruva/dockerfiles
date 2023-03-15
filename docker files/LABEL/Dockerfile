@@ -1,3 +1,3 @@
 FROM almalinux
-LABEL author="vinay"/
+LABEL author="vinay"\
       coursename="devops"
