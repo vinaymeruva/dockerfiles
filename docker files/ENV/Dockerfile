@@ -1,0 +1,3 @@
+FROM almalinux
+ENV AUTHOR="SIVAKUMAR"\
+    COURSE="DEVOPS"
