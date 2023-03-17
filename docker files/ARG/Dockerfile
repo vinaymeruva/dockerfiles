@@ -1,0 +1,2 @@
+FROM almalinux:${VERSION}
+ARG VERSION
